@@ -1,15 +1,8 @@
 /**
  * @name BDFDB
- * @author DevilBro
- * @authorId 278543574059057154
+ * @author Itz_Gosho#8265
+ * @authorId 947189749393788970
  * @version 2.5.8
- * @description Required Library for DevilBro's Plugins
- * @invite Jx3TjNS
- * @donate https://www.paypal.me/MircoWittrien
- * @patreon https://www.patreon.com/MircoWittrien
- * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Library/0BDFDB.plugin.js
  */
 
 module.exports = (_ => {
