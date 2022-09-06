@@ -1,0 +1,22 @@
+{
+	"all": {
+		"changeLogs": {
+			"ShowConnections": "1.1.1",
+			"ShowHiddenChannels": "9.9.9",
+			"Translator": "2.3.9"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": true,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "764ac264d9f911d63b266034621f6e1747776aca",
+			"0BDFDB.raw.css": "98e9c027ef6e97326ac142859216e2f96c20ac4d"
+		}
+	}
+}
